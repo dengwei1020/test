@@ -7,6 +7,8 @@ import javax.persistence.Table;
 
 /**
  * Created by dw on 2020/8/7.
+ * weiweishi go
+ * 狗币邓老五
  */
 @Data
 @Table(name ="tbl_category")
